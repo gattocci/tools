@@ -12,14 +12,14 @@ Cada herramienta vive en su propio repositorio para conservar un historial, una 
 
 | Herramienta | Que hace |
 | --- | --- |
-| [File to TXT](https://github.com/gattocci/file-to-txt) | Copia archivos a `.txt` con una marca de tiempo. Estado excelente. |
-| [Tree to Folder](https://github.com/gattocci/tree-to-folder) | Crea archivos y carpetas desde un arbol de texto. Bugs menores. |
+| [File to TXT](https://github.com/gattocci/file-to-txt) | Desde VS Code copia archivos a `.txt` con una marca de tiempo. Estado excelente. |
+| [Tree to Folder](https://github.com/gattocci/tree-to-folder) | Crea archivos y carpetas en VS Code desde un arbol de texto. Bugs menores. |
+| [Create Temp File](https://github.com/gattocci/create-temp-file) | Crea notas temporales con contador en VS Code y acciones para cerrar o borrar. |
 
 ## En preparacion
 
 | Herramienta | Que hace | Estado |
 | --- | --- | --- |
-| Create Temp File | Crea notas temporales con contador y acciones para cerrar o borrar. | Preparada para publicar por separado. |
 | Ciruela | Cola de portapapeles para capturar, pegar secuencialmente y exportar texto. | Preparada para publicar por separado. |
 | Script to TXT | Divide una exportacion de scripts Lua en archivos individuales. | Utilidad especifica; lo voy a publicar cuando tenga ejemplos especificos de uso. Se complementa con un plugin en Roblox Studio. |
 
